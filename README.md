@@ -14,7 +14,7 @@ I'm a final-year B.Tech CSE student who has spent the last 1 year building and s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulroy1511&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshulroy1511&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em"/>
 </p>
 
 ## 🔢 Total Contributions
