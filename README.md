@@ -50,24 +50,6 @@
 ---
 
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulroy1511&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshulroy1511&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anshulroy1511&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## ⚡ Fun Fact
 
