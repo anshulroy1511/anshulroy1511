@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Roy</h1>
-<h3 align="center">Full Stack Developer | GenAI Enthusiast | MERN + Next.js</h3>
+<h3 align="center"> Combining Full Stack (MERN, Next.js) with AI (LLM, RAG, Voice agent)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshulroy1511&label=Profile%20views&color=blueviolet&style=flat" />
