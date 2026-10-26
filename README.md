@@ -9,16 +9,17 @@
 
 ## 💫 About Me
 
-🚀 Final-year B.Tech CSE student with **1 year of hands-on experience** building real-world full-stack applications in fintech & startup environments.  
+🚀🚀 Software Development Engineer & AI Developer with hands-on experience building and scaling full-stack applications across fintech and early-stage startups.
 
-💡 I focus on **building scalable products**, not just learning — from APIs to UI to AI integrations.
-
+💡 I enjoy turning ideas into production-ready products — from designing backend APIs and optimizing databases to building intuitive frontend experiences and integrating AI-powered capabilities.
 ---
 
 ## ⚡ What I Bring
 
-- 💼 1 year internship experience in fintech & product startups  
-- 🤖 Built AI-powered finance tracker + real-time auction platform  
+- 💼 1 year experience in fintech & product startups
+- ⚙️ Strong in JavaScript, TypeScript, React.js, Node.js, and PostgreSQL.
+- 🤖 Built AI-powered applications, RAG-based knowledge systems, and LLM integrations.
+- 🏗️Experienced with REST APIs, multi-tenant SaaS architecture, Redis, Docker, and cloud deployments.
 - 🧠 Solved **400+ DSA problems** (LeetCode rating: 1664)  
 - 🏗 Strong CS fundamentals: OOPs, DBMS, OS, CN  
 
